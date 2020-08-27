@@ -1,1 +1,1 @@
-[Link til ting](https://github.com/mreriksen/github-slideshow)
+![Link til ting](https://github.com/mreriksen/github-slideshow)
