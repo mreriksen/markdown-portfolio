@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I HATE CAKE**
+*But i kanda like this one individuel, that's me ofcause*
